@@ -1,5 +1,6 @@
 
 # ZSH-Theme - My lovely iTerm2 Terminal
+![preview](https://github.com/xVanjaZ/ZSH-Theme/blob/master/preview.png)
 
 ### Download and install [iTerm2](https://www.iterm2.com)
 

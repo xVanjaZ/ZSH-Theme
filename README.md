@@ -51,8 +51,7 @@ source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 ### Add autosuggestion
 ```
-git clone https://github.com/zsh-users/zsh-autosuggestions
-${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 Set `plugins=(git, zsh-autosuggestions)` in `~/.zshrc`
 

@@ -53,7 +53,7 @@ source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
-Set `plugins=(git, zsh-autosuggestions)` in `~/.zshrc`
+Set `plugins=(git zsh-autosuggestions)` in `~/.zshrc`
 
 ### Import custom settings
 Copy the contents from [settings.conf](https://github.com/xVanjaZ/ZSH-Theme/blob/master/settings.conf) at the bottom of `.zshrc` <br>

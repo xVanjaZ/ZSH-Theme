@@ -38,7 +38,7 @@ git clone https://github.com/benniemosher/the-one-theme/
 ### Activating the theme and font
 1. iTerm2 > Preferences  <br>
 2. Profiles > Select "Default" profile  <br>
-3. Colors > Color Presets > Import and select the iTerm theme  <br>
+3. Colors > Color Presets > Import and select "TheOne" theme  <br>
 4. Text > Change Font > All fonts > Fira Mono for Powerline  <br>
 
 
